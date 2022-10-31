@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(15, 25, 58);
+    background-image: linear-gradient(90deg, rgb(158, 104, 183), #4e3644);
+}
+
+.LoopButtons 
+{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 200px;
+    border-color: rebeccapurple;
+}
